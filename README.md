@@ -2,3 +2,4 @@
 Fixed what was causing the app to crash
 README
 some documentation
+even more documentation
